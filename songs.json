@@ -3,21 +3,24 @@
     "mood": "Chill",
     "tracks": [
       { "name": "Dancing in the Moonlight", "artist": "Toploader" },
-      { "name": "Electric Feel", "artist": "MGMT" }
+      { "name": "Electric Feel", "artist": "MGMT" },
+      { "name": "Tongue Tied", "artist": "Grouplove" }
     ]
   },
   {
     "mood": "Energetic",
     "tracks": [
       { "name": "Sweet Escape", "artist": "Gwen Stefani" },
-      { "name": "Uptown Funk", "artist": "Mark Ronson" }
+      { "name": "Uptown Funk", "artist": "Mark Ronson ft. Bruno Mars" },
+      { "name": "Can’t Stop the Feeling!", "artist": "Justin Timberlake" }
     ]
   },
   {
     "mood": "Melancholy",
     "tracks": [
       { "name": "Creep", "artist": "Radiohead" },
-      { "name": "Hurt", "artist": "Johnny Cash" }
+      { "name": "Hurt", "artist": "Johnny Cash" },
+      { "name": "Mad World", "artist": "Gary Jules" }
     ]
   }
 ]
