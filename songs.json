@@ -1,0 +1,23 @@
+[
+  {
+    "mood": "Chill",
+    "tracks": [
+      { "name": "Dancing in the Moonlight", "artist": "Toploader" },
+      { "name": "Electric Feel", "artist": "MGMT" }
+    ]
+  },
+  {
+    "mood": "Energetic",
+    "tracks": [
+      { "name": "Sweet Escape", "artist": "Gwen Stefani" },
+      { "name": "Uptown Funk", "artist": "Mark Ronson" }
+    ]
+  },
+  {
+    "mood": "Melancholy",
+    "tracks": [
+      { "name": "Creep", "artist": "Radiohead" },
+      { "name": "Hurt", "artist": "Johnny Cash" }
+    ]
+  }
+]
